@@ -88,3 +88,10 @@ div div {
   width: 1%;
   padding: 10px;
 }
+.pallette-erase {
+  color: white;
+  background: black;
+  height: 2%;
+  width: 1%;
+  padding: 10px;
+}
